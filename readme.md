@@ -1,0 +1,1 @@
+This is the resume of Dylan Girard. You can run this npm package as a dependency to view its contents.

@@ -1,0 +1,19 @@
+{
+	"name": "Dylan Girard",
+	"website": "https://github.com/dylankgirard",
+	"linkedin": "https://github.com/dylankgirard",
+	"github": "dylankgirard",
+	"email": "dylankgirard@gmail.com",
+	"resume": "https://docs.google.com/document/d/12gHl4cyx63E8WFZPxKUYMD2VOW_Hr2lMzZMXojYEMKQ/edit?usp=sharing",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django"
+	],
+	"otherSkills": ["Classical Trumpet Player", "Twitch Streamer", "Instructor"]
+}
